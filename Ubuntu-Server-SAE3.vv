@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=Ubuntu-Server-SAE3
+host=one-dell2
+port=11048
+proxy=http://one-frontend:29876?token=69fd5j8nmwremlveobkd
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
